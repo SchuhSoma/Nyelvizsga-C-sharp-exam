@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\bin\Debug\Nyelvizsga.exe.config
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\bin\Debug\Nyelvizsga.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\bin\Debug\Nyelvizsga.pdb
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\obj\Debug\Nyelvizsga.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\obj\Debug\Nyelvizsga.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\obj\Debug\Nyelvizsga.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\Nyelvizsga\Nyelvizsga\obj\Debug\Nyelvizsga.pdb
